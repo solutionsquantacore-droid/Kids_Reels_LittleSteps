@@ -24,19 +24,19 @@ CHANNELS = [
         "handle": "@nursykids",
         "name": "NursyKids",
         "category": "Alphabets & Rhymes",
-        "max_shorts": 10
+        "max_shorts": 100
     },
     {
         "handle": "@LucasAndFriends",
         "name": "Lucas & Friends",
         "category": "Numbers & Words",
-        "max_shorts": 10
+        "max_shorts": 100
     },
     {
         "handle": "@laguanak-anak",
         "name": "LooLoo Lagu Anak",
         "category": "Songs & Shapes",
-        "max_shorts": 10
+        "max_shorts": 100
     }
 ]
 
